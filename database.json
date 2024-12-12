@@ -1,0 +1,65 @@
+{
+    "savdolar": [
+        {
+            "mahsulot": "Osh",
+            "soni": 2,
+            "narxi": 20000.0,
+            "sana": "2024-12-12"
+        },
+        {
+            "mahsulot": "Shashlik",
+            "soni": 8,
+            "narxi": 48000.0,
+            "sana": "2024-12-12"
+        },
+        {
+            "mahsulot": "Somsa",
+            "soni": 40,
+            "narxi": 160000.0,
+            "sana": "2024-12-12"
+        },
+        {
+            "mahsulot": "Achchiq",
+            "soni": 12,
+            "narxi": 140000.0,
+            "sana": "2024-12-12"
+        }
+    ],
+    "ombor": {
+        "Un": 2,
+        "Yog": 45,
+        "Moxito": 23
+    },
+    "xarajatlar": [
+        {
+            "mahsulot": "Non",
+            "narxi": 25000.0,
+            "foydalanuvchi": "aliboevabbos",
+            "sana": "2024-12-12"
+        },
+        {
+            "mahsulot": "Sut",
+            "narxi": 15000.0,
+            "foydalanuvchi": "aliboevabbos",
+            "sana": "2024-12-12"
+        },
+        {
+            "mahsulot": "Taxi",
+            "narxi": 7000.0,
+            "foydalanuvchi": "alterego0311",
+            "sana": "2024-12-12"
+        },
+        {
+            "mahsulot": "Pomidor",
+            "narxi": 40000.0,
+            "foydalanuvchi": "Abbos_Aliboev",
+            "sana": "2024-12-12"
+        },
+        {
+            "mahsulot": "Choy",
+            "narxi": 6000,
+            "foydalanuvchi": "aliboevabbos",
+            "sana": "2024-12-12"
+        }
+    ]
+}
