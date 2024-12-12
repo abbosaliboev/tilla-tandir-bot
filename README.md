@@ -1,5 +1,5 @@
 
-# Telegram Inventory Management Bot 📦🤖
+# Telegram Inventory Management Bot 🤖
 
 **This bot simplifies inventory, sales, and expense management by integrating features like user authentication, PDF reporting, and real-time tracking.** 
 
@@ -151,5 +151,9 @@ await update.message.reply_sticker(sticker="CAACAgIAAxkBAAEB1Jlk9Xo7K0X5...")
 This project is open-source and available under the **MIT License**.
 
 ---
+## 📸 Screenshot
+Below is a screenshot of the bot in action:
 
-Start managing your inventory with ease! 🛍️📊
+![Bot Screenshot](./screenshot.png)
+
+Start managing your inventory with ease! 📊
