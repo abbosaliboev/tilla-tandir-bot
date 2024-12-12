@@ -49,15 +49,22 @@
 
 ---
 
-## 🚀 Deployment Information
+## 🚀 Hosting Platform: Railway
 
-This bot was deployed on the **Railway** platform. Railway offers free server hosting for lightweight applications and is ideal for this bot. You can also deploy on similar platforms like **Render** or **Heroku** (free plans available).
+This bot is hosted on **Railway**, a user-friendly platform offering free and flexible hosting for lightweight applications.
 
-### 🔧 Steps to Deploy
-1. Sign up for a hosting platform (e.g., Railway or Render).
-2. Connect your repository to the platform.
-3. Ensure the bot token and database file are properly configured.
-4. Deploy and monitor using the hosting platform's dashboard.
+### Why Railway?
+- **Free Plan**: Perfect for small projects and bots.
+- **GitHub Integration**: Automatically deploys from your repository.
+- **Simple Management**: Easy-to-use dashboard for logs and settings.
+
+### Deployment Steps
+1. Sign up on [Railway](https://railway.app/).
+2. Create a new project and connect your GitHub repository.
+3. Add environment variables (e.g., `YOUR_BOT_TOKEN`).
+4. Deploy your bot and monitor it via the Railway dashboard.
+
+For more details, visit the [Railway Documentation](https://railway.app/docs).
 
 ---
 
