@@ -154,6 +154,6 @@ This project is open-source and available under the **MIT License**.
 ## 📸 Screenshot
 Below is a screenshot of the bot in action:
 
-![Bot Screenshot](./screenshot.png)
+![Bot Screenshot](./Screenshot.png)
 
 Start managing your inventory with ease! 📊
