@@ -536,7 +536,6 @@ async def handle_message(message: Message):
 
 async def main():
     load_data()
-    keep_alive()  # Flask serverni ishga tushiramiz
     bot = Bot(token="8198692446:AAE062mioUGN8xHpycUandU0BvP6NOntXFI")
     dp = Dispatcher()
 
