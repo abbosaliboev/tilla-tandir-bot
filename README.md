@@ -156,4 +156,3 @@ Below is a screenshot of the bot in action:
 
 <img src="./Screenshot.png" alt="Bot Screenshot" width="400">
 
-Start managing your inventory with ease! 📊
