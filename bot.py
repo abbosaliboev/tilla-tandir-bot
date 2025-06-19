@@ -536,7 +536,7 @@ async def handle_message(message: Message):
 
 async def main():
     load_data()
-    bot = Bot(token="8198692446:AAE062mioUGN8xHpycUandU0BvP6NOntXFI")
+    bot = Bot(token=".....")
     dp = Dispatcher()
 
     # Komanda buyruqlarni ro'yxatdan o'tkazish
